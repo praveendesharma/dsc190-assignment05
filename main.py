@@ -18,6 +18,7 @@ x = 1 + 2
 
 line = "just for testing"
 y = 3
+z = 1 # this should work
 
 if __name__ == "__main__":
     main()
