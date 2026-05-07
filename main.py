@@ -17,6 +17,7 @@ for item in items:
 x = 1 + 2
 
 line = "just for testing"
+y = 3
 
 if __name__ == "__main__":
     main()
